@@ -61,4 +61,3 @@ atribuir(nome,numXp)
 
 
 
-//ganhos de xp de experiência
